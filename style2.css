@@ -1,0 +1,22 @@
+body{
+    background: rgb(127, 189, 214);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1{
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #0e0d0d;
+	position: absolute;
+    left: 11%;
+}
+
+.p1{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #0e0d0d;
+	font-size: 150%;
+	position: absolute;
+	left: 8%;
+	top: 10%;
+}
